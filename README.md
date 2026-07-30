@@ -1,7 +1,9 @@
-<p align="center">
-  <img src="https://github.com" alt="Alvos de Elite" width="48%">
-  <img src="https://github.com" alt="Alvos Custo-Benefício" width="48%">
-</p>
+# ⚽ DefScore - Football Analytics
+
+![Alvos de Elite](https://github.com)
+
+![Alvos Custo-Benefício](https://github.com)
+
 
 # Métrica Defensiva Autoral & Inteligência de Mercado para Tomada de Decisão Estratégica
 

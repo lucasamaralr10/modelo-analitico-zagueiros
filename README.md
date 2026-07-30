@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com" alt="Alvos de Elite" width="48%">
+  <img src="https://github.com" alt="Alvos Custo-Benefício" width="48%">
+</p>
+
 # Métrica Defensiva Autoral & Inteligência de Mercado para Tomada de Decisão Estratégica
 
 Este repositório apresenta o desenvolvimento de um projeto prático de *Football Analytics*, simulando a atuação de um **Analista de Dados e Scout Profissional**. O objetivo central é integrar modelagem estatística aplicada, engenharia de features e contexto esportivo real para embasar decisões estratégicas de alta complexidade em clubes de futebol.

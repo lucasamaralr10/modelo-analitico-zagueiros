@@ -17,7 +17,7 @@ O projeto foi estruturado em duas etapas críticas de inteligência de negócios
 2. **Scout e Prospecção Estratégica de Mercado:** Aplicação prática do modelo analítico em um cenário competitivo real de mercado. Com base no orçamento esperado e nas restrições financeiras fornecidas, foi desenhada uma estratégia de contratações estruturada em listas táticas complementares: 5 alvos de elite para assumir a titularidade imediata e 5 alvos custo-benefício voltados para a composição profunda de elenco.
 
 ## 🛠️ Arquitetura Técnica e Tecnologias
-* **Linguagem Principal:** Python 3
+* **Linguagem Principal:** Python 
 * **Manipulação e Engenharia de Dados:** Pandas e NumPy
 * **Modelagem Estatística:** Scipy (Z-Score) e Scikit-Learn (MinMaxScaler)
 * **Visualização de Dados:** Matplotlib, Seaborn e Plotly Express (Gráficos Interativos de Dispersão e Radar)
